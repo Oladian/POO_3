@@ -1,6 +1,6 @@
-package com.iesvirgendelcarmen.herencia.teoria;
+package com.iesvirgendelcarmen.herencia.teoria.figurasGeometricas;
 
-public class TrianguloEquilatero extends Triangulo {
+public final class TrianguloEquilatero extends Triangulo { //Solo la clase última en la jerarquía pueden ser finales
 	private float longitud;
 
 	public TrianguloEquilatero(float longitud) {

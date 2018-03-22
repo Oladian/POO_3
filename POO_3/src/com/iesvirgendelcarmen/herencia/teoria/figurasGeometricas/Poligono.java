@@ -1,4 +1,4 @@
-package com.iesvirgendelcarmen.herencia.teoria;
+package com.iesvirgendelcarmen.herencia.teoria.figurasGeometricas;
 
 public class Poligono {
 	private int numLados;

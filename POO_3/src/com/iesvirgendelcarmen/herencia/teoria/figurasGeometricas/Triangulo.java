@@ -1,4 +1,4 @@
-package com.iesvirgendelcarmen.herencia.teoria;
+package com.iesvirgendelcarmen.herencia.teoria.figurasGeometricas;
 
 public class Triangulo extends Poligono {
 	
@@ -32,9 +32,9 @@ public class Triangulo extends Poligono {
 		return lado3;
 	}
 	
-	public float getPerimetro() {
+	public final float getPerimetro() {
 		return lado1+lado2+lado3; 	//Segun Manolo los getters no 
-										//se diferencian tanto de los atributos en cuanto a rendimiento
+									//se diferencian tanto de los atributos en cuanto a rendimiento
 	}
 
 	@Override
