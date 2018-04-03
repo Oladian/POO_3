@@ -19,7 +19,7 @@ public class TestPoligonos {
 		System.out.printf("Area del cuadrilatero: %.2f%nPerimetro: %.2f",
 				cuadrilatero1.getArea(),cuadrilatero1.getPerimetro());
 		
-		TrianguloEquilatero triangulo3 = new TrianguloEquilatero(44);
+		//TrianguloEquilatero triangulo3 = new TrianguloEquilatero(44);
 		//triangulo1=triangulo3; //Dará error porque triangulo1 es constante
 	}
 

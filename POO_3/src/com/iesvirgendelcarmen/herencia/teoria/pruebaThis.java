@@ -1,6 +1,7 @@
 package com.iesvirgendelcarmen.herencia.teoria;
 
 public class pruebaThis {
+	@SuppressWarnings("unused")
 	private String str;
 	
 	public pruebaThis() {
